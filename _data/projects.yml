@@ -2,8 +2,11 @@
   name: Scout
   featured: true
   url: assets/scout/Swearngin_UIST18_Demo_Scout.pdf
-  caption: Mixed-initiative exploration of interface layout alternatives through high-level design constraints.
-  thumb: assets/scout/scout-2.png
+  caption: Exploring alternatives is a key part of interface design, yet processes for creating alternatives are mostly manual. We 
+    are creating <b>Scout</b>, a system to help designers explore alternatives rapidly through <b>mixed-initiative interaction with high-level 
+    constraints</b> and design feedback. We are formalizing design concepts combined with high-level constraints into low-level spatial 
+    constraints to enable rapidly generating layout alternatives through constraint solving and synthesis. 
+  thumb: assets/scout/scout-3.png
   thumb_class: cover
   collaborators:
     - Amy J. Ko
@@ -25,8 +28,15 @@
   name: TapShoe
   featured: true
   url: assets/tapshoe/AmandaSwearngin_YangLi_TapShoe_CHI2019.pdf 
-  caption: A model and interface for designers to automatically evaluate mobile interface tappability using crowdsourcing and deep learning. # in JSON.
-  thumb: assets/tapshoe/tap_shoe.png
+  caption: Tapping is an immensely important gesture in mobile interfaces, yet people still frequently are required
+    to learn which elements are tappable through trial and error. We created <b>TapShoe</b>, an approach for modeling 
+    the tappability of mobile interfaces at scale. We collected a crowdsourced dataset of over 20k tappability labels
+    and built a deep learning model to evaluate tappability automatically which interface designers can use to evaluate
+    this key aspect of usability without needing to collect any data. 
+  thumb: assets/tapshoe/tap_shoe.png 
+  thumb_class: cover 
+  collaborators: 
+    - Yang Li
   links:
   - type: article
     name: Google AI Blog
@@ -52,8 +62,10 @@
   name: Rewire
   featured: true
   url: assets/rewire/AmandaSwearngin_Rewire_CHI2018.pdf
-  caption: An interactive system helping designers leverage example screenshots by automatically inferring a vector representation with editable 
-    shape and style properties, and 3 design assistance modes. # in JSON.
+  caption: Interface designers frequently adapt screenshot examples into designs, yet, images are unstructured and difficult to edit. We
+    created <b>Rewire</b>, an interactive system that helps designers leverage example screenshots by automatically inferring a vector representation
+    of a screenshot where UI components have editble shape and style properties. We demonstrate that Rewire can help designers reconstruct 
+    and edit example designs more efficiently compared to a baseline tool. # in JSON.
   thumb: assets/rewire/rewire.png
   links:
   - type: paper
@@ -73,8 +85,9 @@
   name: Genie
   featured: true
   url: assets/genie/AmandaSwearngin_CHI2017_camera_ready.pdf 
-  caption: An abstract model and algorithms for reverse engineering interactive commands from web applications and retargeting their inputs to new 
-    modalities (e.g., voice, keyboard). # in JSON.
+  caption: Most web applications are designed as one-size-fits-all, despite considerable variation in people’s expertise, physical abilities, and other factors that impact interaction.
+    We created <b>Genie</b>, a system that reverse engineers an abstract model of the underlying commands in a web application, 
+    then enables interaction with that functionality through alternative interfaces and other input modalities (e.g., speech, keyboard, or command line input).
   thumb: assets/genie/genie.png
   links:
   - type: article
@@ -95,8 +108,9 @@
 - cogtool-helper:
   name: Cogtool-Helper
   url: assets/cogtool/AmandaSwearngin_CHI2012.pdf 
-  caption: A system to automatically infer and generate storyboards and predictive models to help UI 
-    designers estimate human task performance times in interfaces. # in JSON.
+  caption: Interface designers use human performance models to compare product designs to legacy systems or competitors interfaces, yet 
+    these models require manual creation of storyboards in human performance modeling tools (i.e., CogTool). We created a system to automatically infer and generate storyboards and predictive models for desktop interfaces to help UI 
+    designers estimate human task performance (CHI 2012), and detect human performance regressions in interfaces (ICSE 2013). # in JSON.
   thumb: assets/cogtool/cogtoolhelper.png
   featured: true
   links:
@@ -111,22 +125,27 @@
     url: assets/cogtool/AmandaSwearngin_ICSE2013.pdf 
 
 - evoweb: 
-  name: Mashup Versioning
-  caption: Versioning for Mashups - An Exploratory Study
-  url: assets/mashups/Kuttal_ISEUD2011.pdf
-  thumb: assets/mashups/mashups.png
+  name: EvoWeb
+  caption: I conducted interviews with web users, and developed an algorithm and a web plugin to detect change in web applications over time and 
+    and highlight them to help people see what has changed since they last visited a webpage. This was done as part of a class project
+    for INSC 570 - Research Design. 
+  url: assets/evoweb/EvowebPaper.pdf
+  thumb: assets/evoweb/EvoWeb.png
   thumb_class: cover
+  awards: 
+    - Best Class Paper
   collaborators: 
-    - Sandeep Kaur Kuttal 
-    - Anita Sarma
-    - Gregg Rothermel 
+    - Amy J. Ko 
+    - James Fogarty 
   links: 
     - type: paper 
-      name: IS-EUD Paper
+      name: Class Paper
+      url: assets/evoweb/EvowebPaper.pdf
 
 - mashups: 
   name: Mashup Versioning
-  caption: Versioning for Mashups - An Exploratory Study
+  caption: End users with little software background develop software like spreadsheets, web mashups, and macros. We investigated whether versioning capabilities could help end users develop, understand, and reuse web mashups. Our results showed that 
+    versioning allowed mashup creators to perform mashup creation tasks more correctly in less time than users without versioning, while also improving reusability. 
   url: assets/mashups/Kuttal_ISEUD2011.pdf
   thumb: assets/mashups/mashups.png
   thumb_class: cover
@@ -140,7 +159,9 @@
 
 - set: 
   name: SET Solver
-  caption: A Reformulation Strategy for Multi-Dimensional CSPs -  The Case Study of the SET Game.
+  caption: We created a reformulation strategy for solving multi-dimensional constraint satisfaction problems (CSPs), 
+    through the use of the game of SET as an illustration. We also built a basic constraint solver to find all solutions
+    of an instance of the game of SET, and deployed it in a web interface for playing SET that provided automatic hints. 
   thumb: assets/set/set-constraints.png 
   url: assets/set/AmandaSwearngin_SARA2011.pdf
   collaborators: 
@@ -154,7 +175,8 @@
 
 - pythia: 
   name: Pythia
-  caption: A web application to explore course grading and evaluation histories for courses at the University of Washington (Javascript, HTML, Python/Django, D3.js)
+  caption: We created a web application to explore course grading and evaluation histories for courses at the University of Washington (Javascript, HTML, Python/Django, D3.js), 
+    as part of a course project for CSE 510 - Human Computer Interaction. 
   thumb: assets/pythia/pythia.png 
   url: https://github.com/mandamarie0587/pythia
   links: 
@@ -162,8 +184,4 @@
       name: Code
       url: https://github.com/mandamarie0587/pythia
 
-
-# pythia one from HCI class 
-# SEt 
-# Cassisus one from 570 
 

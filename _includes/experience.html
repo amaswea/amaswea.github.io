@@ -11,6 +11,12 @@
       <span class="organization">{{ data.organization }}</span>
     </div>
     <div class="job-title">{{ data.title }}</div>
+    {% if data.mentors %}
+      <div class="mentors">Mentor(s): {{ data.mentors }}</div>
+    {% endif %}
+    {% if data.advisors %}
+      <div class="mentors">Advisor(s): {{ data.advisors }}</div>
+    {% endif %}
     <div class="caption">
       {{data.caption | markdownify | remove: '<p>' | remove: '</p>' }}
     </div>

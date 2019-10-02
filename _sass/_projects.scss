@@ -9,6 +9,12 @@
     grid-column-gap: 10px;
   }
 
+  .awards {
+    margin-top: 0.1em;
+    font-weight: $bold-font-weight;
+    color: firebrick;
+  }
+
   .grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

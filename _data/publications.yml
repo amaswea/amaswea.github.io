@@ -6,6 +6,12 @@
   venue: CHI 2019
   venue_url: https://chi2019.acm.org/
   venue_location: Glasgow, UK
+  doi: 10.1145/3290605.3300305
+  short_doi: 10/db8c
+  video: https://youtu.be/4tEL2wh_Dh0
+  recording: https://www.youtube.com/watch?v=Tq3X609yo44
+  arxiv: 1902.11247
+  slides: /assets/tapshoe/CHISlides.pdf
 
   # link:
   pdf: /assets/tapshoe/AmandaSwearngin_YangLi_TapShoe_CHI2019.pdf
@@ -15,7 +21,7 @@
   # doi:
   # short_doi
 
-- title: "Scout: Mixed-Initiative Exploration of Design Variations through High-Level Design Constraint"
+- title: "Scout: Mixed-Initiative Exploration of Design Variations through High-Level Design Constraints"
   year: 2018
   authors:
     - Amanda Swearngin
@@ -24,9 +30,12 @@
   venue: UIST 2018 Demos
   venue_url: http://uist.acm.org/uist2018/
   venue_location: Berlin, Germany 
+  doi: 10.1145/3266037.3271626
+  short_doi: 10/db79 
+  video: https://youtu.be/VSEksTn1uQo
 
   # link:
-  pdf: assets/scout/Swearngin_UIST18_Demo_Scout.pdf
+  pdf: /assets/scout/Swearngin_UIST18_Demo_Scout.pdf
 
 - title: "Rewire: Interface Design Assistance from Examples."
   year: 2018
@@ -40,9 +49,12 @@
   venue: CHI 2018
   venue_url: https://chi2018.acm.org/
   venue_location: Montreal, Canada
-
+  doi: 10.1145/3173574.3174078
+  short_doi: 10/db8b
+  video: https://youtu.be/hxl_UPwlSgg
+  slides: /assets/rewire/CHISlides.pdf
   # link:
-  pdf: assets/rewire/AmandaSwearngin_Rewire_CHI2018.pdf
+  pdf: /assets/rewire/AmandaSwearngin_Rewire_CHI2018.pdf
   # slides:
   # video:
 
@@ -58,9 +70,12 @@
   venue: CHI 2017
   venue_url: https://chi2017.acm.org/
   venue_location: Denver, CO
-
+  doi: 10.1145/3025453.3025506
+  short_doi: 10/db8d
+  video: https://youtu.be/OCxXooY3aes
   # link:
-  pdf: assets/genie/AmandaSwearngin_CHI2017_camera_ready.pdf
+  pdf: /assets/genie/AmandaSwearngin_CHI2017_camera_ready.pdf
+  slides: /assets/genie/CHISlides.pdf 
 
 
 - title: "Human Performance Regression Testing."
@@ -75,7 +90,7 @@
   venue_location: San Francisco, CA 
 
   # link:
-  pdf: assets/cogtool/AmandaSwearngin_ICSE2013.pdf
+  pdf: /assets/cogtool/AmandaSwearngin_ICSE2013.pdf
 
 - title: "Easing the Generation of Predictive Human Performance Models from Legacy Systems.."
   year: 2012
@@ -89,7 +104,7 @@
   venue_location: Austin, TX 
 
   # link:
-  pdf: assets/cogtool/AmandaSwearngin_CHI2012.pdf
+  pdf: /assets/cogtool/AmandaSwearngin_CHI2012.pdf
 
 - title: "Versioning for Mashups --- An Exploratory Study"
   year: 2011
@@ -103,7 +118,7 @@
   venue_location: Torre Canne, Italy 
 
   # link:
-  pdf: assets/mashups/Kuttal_ISEUD2011.pdf
+  pdf: /assets/mashups/Kuttal_ISEUD2011.pdf
 
 - title: "A Reformulation Strategy for Multi-Dimensional CSPs: The Case Study of the SET Game."
   year: 2011
@@ -116,117 +131,4 @@
   venue_location: Catalonia, Spain 
 
   # link:
-  pdf: assets/set/AmandaSwearngin_SARA2011.pdf
-
-# - title: "Voyager 2: Augmenting Visual Analysis with Partial View Specifications"
-#   year: 2017
-#   authors:
-#     - Kanit Wongsuphasawat
-#     - Zening Qu
-#     - Dominik Moritz
-#     - Riley Chang
-#     - Felix Ouk
-#     - Anushka Anand
-#     - Jock Mackinlay
-#     - Bill Howe
-#     - Jeffrey Heer
-
-#   venue: CHI 2017
-#   # venue_location: Denver, CO, USA
-#   venue_url: https://chi2017.acm.org/
-
-#   pdf: https://idl.cs.washington.edu/files/2017-Voyager2-CHI.pdf
-#   video: https://vimeo.com/199084718
-
-#   doi: 10.1145/3025453.3025768
-#   short_doi: 10/b7jv
-#   link: https://idl.cs.washington.edu/papers/voyager2
-#   # tweet: Voyager 2 blends manual and automated chart specification.
-
-
-# - title: "GraphScape"
-#   year: 2017
-#   authors:
-#     - Younghoon Kim
-#     - Kanit Wongsuphasawat
-#     - Jessica Hullman
-#     - Jeffrey Heer
-
-#   venue: CHI 2017
-#   venue_location: Denver, CO, USA
-#   venue_url: https://chi2017.acm.org/
-
-#   pdf: https://idl.cs.washington.edu/files/2017-GraphScape-CHI.pdf
-#   # video: https://vimeo.com/199084718
-
-#   # doi: 10.1145/3025453.3025768
-#   # short_doi: 10/b7jv
-#   link: https://idl.cs.washington.edu/papers/graphscape
-#   # tweet: Voyager 2 blends manual and automated chart specification.
-
-# - title: "Vega-Lite: A Grammar of Interactive Graphics"
-#   year: 2017
-#   authors:
-#     - Arvind Satyanarayan
-#     - Dominik Moritz
-#     - Kanit Wongsuphasawat
-#     - Jeffrey Heer
-#   venue: Infovis 2016
-#   venue_url: http://ieeevis.org/
-#   # venue_location: Baltimore, MD, USA
-#   link: http://idl.cs.washington.edu/papers/vega-lite
-#   pdf: http://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf
-#   video: https://vimeo.com/177767802
-#   link: https://vega.github.io/vega-lite/
-#   doi: 10.1109/TVCG.2016.2599030
-#   short_doi: 10/f92f32
-#   slides: /talks/VegaLite-InfoVis-2016.pdf
-#   awards:
-#     - Best Paper Award
-
-# - title: "Towards A General-Purpose Query Language for Visualization Recommendation"
-#   year: 2016
-#   authors:
-#     - Kanit Wongsuphasawat
-#     - Dominik Moritz
-#     - Anushka Anand
-#     - Jock Mackinlay
-#     - Bill Howe
-#     - Jeffrey Heer
-#   venue: HILDA at SIGMOD 2016
-#   venue_location: San Francisco, CA, USA
-#   venue_url: http://www.hilda.io/2016
-#   pdf: /papers/2016-Compassql-HILDA.pdf
-
-# - title: "Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations"
-#   year: 2015
-#   authors:
-#     - Kanit Wongsuphasawat
-#     - Dominik Moritz
-#     - Anushka Anand
-#     - Jock Mackinlay
-#     - Bill Howe
-#     - Jeffrey Heer
-#   venue: Infovis 2015
-#   venue_url: http://ieeevis.org/
-#   venue_location: Chicago, IL, USA
-#   link: https://idl.cs.washington.edu/papers/voyager
-#   link: https://vega.github.io/
-#   pdf: https://idl.cs.washington.edu/files/2015-Voyager-InfoVis.pdf
-#   video: https://vimeo.com/135417594
-#   awards:
-#     - Top TCVG Papers Invited to SIGGRAPH 2016
-
-# - title: "Declaration Interaction Design for Data Visualization"
-#   year: 2014
-#   authors:
-#     - Arvind Satyanarayan
-#     - Kanit Wongsuphasawat
-#     - Jeffrey Heer
-#   venue: UIST 2014
-#   venue_url: http://uist.acm.org/uist2014
-#   # venue_location:
-#   link: https://idl.cs.washington.edu/papers/reactive-vega
-#   link: https://vega.github.io/
-#   # pdf: https://idl.cs.washington.edu/files/2015-Voyager-InfoVis.pdf
-#   # video: https://vimeo.com/135417594
+  pdf: /assets/set/AmandaSwearngin_SARA2011.pdf
