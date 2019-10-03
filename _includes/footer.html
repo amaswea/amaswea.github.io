@@ -2,11 +2,12 @@
   <div class="container">
     <div class="footer-col">
       {{site.title}}<br/>
+      <a href="mailto:amaswea@cs.washington.edu">{{site.email}}</a><br />
       <abbr title="Last build on {{site.time | date: '%Y-%m-%d'}}">{{ site.time | date: '%B %Y'}}</abbr>
     </div>
+    <div class="footer-col  site-desc">{{ site.description }}</div>
     <div class="footer-col">
-      <a href="mailto:amaswea@cs.washington.edu">{{site.email}}</a>
+      Template Creator: <a href="https://github.com/domoritz">Dominik Moritz</a>
     </div>
-    <div class="footer-col site-desc">{{ site.description }}</div>
   </div>
 </footer>

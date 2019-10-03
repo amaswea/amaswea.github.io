@@ -16,7 +16,7 @@
 title: Amanda Swearngin
 email: amaswea@cs.washington.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Data driven design, program analysis, constraint solving for user interface design software. 
+  Data driven design, program analysis, and constraint solving for user interface design software. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter:
