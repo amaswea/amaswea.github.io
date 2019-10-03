@@ -101,15 +101,15 @@
     url: https://youtu.be/OCxXooY3aes
   - type: code
     name: Code
-    url: https://github.com/mandamarie0587/genie
+    url: https://github.com/amaswea/genie
   # - type: demo
   #   url: https://vega.github.io/editor/#/examples/vega-lite/overview_detail
 
 - cogtool-helper:
   name: Cogtool-Helper
   url: /assets/cogtool/AmandaSwearngin_CHI2012.pdf 
-  caption: Interface designers use human performance models to compare product designs to legacy systems or competitors interfaces, yet 
-    these models require manual creation of storyboards in human performance modeling tools (i.e., CogTool). We created a system to automatically infer and generate storyboards and predictive models for desktop interfaces to help UI 
+  caption: Interface designers use human performance models to compare designs to legacy systems or competitors' interfaces, yet 
+    these models require manual creation of storyboards in human performance modeling tools (i.e., CogTool). We created a system to automatically generate storyboards and predictive models for desktop interfaces to help UI 
     designers estimate human task performance (CHI 2012), and detect human performance regressions in interfaces (ICSE 2013). # in JSON.
   thumb: assets/cogtool/cogtoolhelper.png
   featured: true
@@ -179,10 +179,10 @@
   caption: We created a web application to explore course grading and evaluation histories for courses at the University of Washington (Javascript, HTML, Python/Django, D3.js), 
     as part of a course project for CSE 510 - Human Computer Interaction. 
   thumb: assets/pythia/pythia.png 
-  url: https://github.com/mandamarie0587/pythia
+  url: https://github.com/amaswea/pythia
   links: 
     - type: code 
       name: Code
-      url: https://github.com/mandamarie0587/pythia
+      url: https://github.com/amaswea/pythia
 
 
