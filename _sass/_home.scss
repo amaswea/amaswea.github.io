@@ -53,11 +53,11 @@
     .item {
       .logo {
         justify-self: start;
-        align-self: center;
         width: 80px;
         height: 80px;
+        margin-top: 0.5em; 
         background-size: contain;
-        background-position: center;
+        background-position: center top;
         background-repeat: no-repeat;
       }
 
@@ -98,8 +98,7 @@
   }
 
   section.ft-tabbed-section {
-    grid-column-start: 3;
-    grid-column-end: span 2; 
+    margin-left: 100px; 
   }
 
   .grid {
@@ -235,7 +234,7 @@
     }
   }
 
-  .news-travel {
+  .experience-grid {
     display: flex;
     flex-direction: row;
 
@@ -299,6 +298,7 @@
       .project {
         display: block;
         margin-bottom: 16px;
+        width: initial; 
 
         &:not(:last-child) {
           margin-right: 0;
@@ -313,12 +313,16 @@
       }
     }
 
-    .news-travel {
+    .experience-grid {
       margin-top: $spacing-unit;
       flex-direction: column;
 
       .travel {
         padding-left: 0;
+      }
+
+      .ft-tabbed-section {
+        margin-left: 0px; 
       }
     }
   }

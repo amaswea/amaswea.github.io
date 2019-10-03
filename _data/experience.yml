@@ -37,7 +37,7 @@
   caption: I created <b>Rewire</b>, an interactive system helping designers leverage example screenshots by automatically inferring a 
     vector representation with editable shape and style properties, including 3 novel design assistance modes, and evaluated Rewire with 16 
     interface designers. 
-  logo: adobe.jpg
+  logo: adobe.png
 
 # - organization: Adobe Research
 #   title: Research Intern
@@ -58,5 +58,5 @@
   caption: I designed and implemented <b>CogTool-Helper</b>, which uses UI testing frameworks to 
     automatically create storyboards for predictive human performance modeling of user interfaces, 
     to help designers evaluate human performance and detect human performance regressions in interfaces. 
-  logo: nebraska.jpg
+  logo: nebraska.png
 

@@ -25,12 +25,6 @@
     </p>
   {% endif %}
 
-  {% if pub.tweet %}
-    <a href="https://twitter.com/intent/tweet?text={{ pub.tweet }}&url={{ site.production_url }}/publications/%23{{ pub.title | slugify }}&via=domoritz&related=domoritz" class="tweet" target="_blank" rel="noopener">
-      <i class="fa fa-twitter"></i> <span class="message">{{ pub.tweet }}</span>
-    </a>
-  {% endif %}
-
   {% if pub.awards %}
     <div class="awards">
       {% for award in pub.awards %}{{ award }}{% unless forloop.last %}, {% endunless %}
@@ -41,42 +35,42 @@
   {% if pub.link or pub.pdf or pub.video %}
     <div class="extra-links">
     {% if pub.pdf %}
-      <a class="video" href="{{ pub.pdf }}">
+      <a target="_blank" class="video" href="{{ pub.pdf }}">
         <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
       </a>
     {% endif %}
     {% if pub.doi %}
-      <a href="http://www.doi2bib.org/bib/{{ pub.doi }}">
+      <a target="_blank" href="http://www.doi2bib.org/bib/{{ pub.doi }}">
         <i class="fa fa-book" aria-hidden="true"></i> Bibtex
       </a>
     {% endif %}
     {% if pub.arxiv %}
-      <a href="https://arxiv.org/abs/{{ pub.arxiv }}">
+      <a target="_blank" href="https://arxiv.org/abs/{{ pub.arxiv }}">
         <i class="fas fa-archive" aria-hidden="true"></i> arXiv: {{ pub.arxiv }}
       </a>
     {% endif %}
     {% if pub.short_doi %}
-      <a href="http://doi.org/{{ pub.short_doi }}">
+      <a target="_blank" href="http://doi.org/{{ pub.short_doi }}">
         <i class="fa fa-anchor" aria-hidden="true"></i> DOI: {{ pub.short_doi }}
       </a>
     {% endif %}
     {% if pub.link %}
-      <a class="link" href="{{ pub.link }}">
+      <a target="_blank" class="link" href="{{ pub.link }}">
         <i class="fa fa-file" aria-hidden="true"></i> Project
       </a>
     {% endif %}
     {% if pub.recording %}
-      <a href="{{ pub.recording }}">
+      <a target="_blank" href="{{ pub.recording }}">
         <i class="fas fa-video" aria-hidden="true"></i> Recording
       </a>
     {% endif %}
     {% if pub.video %}
-      <a class="video" href="{{ pub.video }}">
+      <a target="_blank" class="video" href="{{ pub.video }}">
         <i class="fa fa-tv" aria-hidden="true"></i> Video
       </a>
     {% endif %}
     {% if pub.slides %}
-      <a class="video" href="{{ pub.slides }}">
+      <a target="_blank" class="video" href="{{ pub.slides }}">
         <i class="fa fa-window-maximize" aria-hidden="true"></i> Slides
       </a>
     {% endif %}

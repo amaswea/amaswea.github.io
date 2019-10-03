@@ -1,7 +1,7 @@
 <div class="project">
   <span class="title">{{ project.name }}</span>
   {% if project.url || project.code || project.article || project.paper %}
-    <a href="{{ project.url || project.code || project.article || project.paper }}" class="preview-image" 
+    <a target="_blank" href="{{ project.url || project.code || project.article || project.paper }}" class="preview-image" 
       style="background-image: url('{{ "/" | append: project.thumb | relative_url }}'"></a>
   {% else %}
     <span class="preview-image" style="background-image: url('{{ project.thumb }}')"></span>
@@ -13,25 +13,25 @@
   <div class="links">
     {% for link in project.links %}
       {% if link.type == 'article' %}
-    <a href="{{ link.url }}"><i class="fas fa-newspaper"></i> {{link.name}}</a>
+        <a target="_blank" href="{{ link.url }}"><i class="fas fa-newspaper"></i> {{link.name}}</a>
       {% endif %}
       {% if link.type == 'demo' %}
-        <a href="{{ link.url }}"><i class="fa fa-play"></i> {{link.name}}</a>
+        <a target="_blank" href="{{ link.url }}"><i class="fa fa-play"></i> {{link.name}}</a>
       {% endif %}
       {% if link.type == 'code' %}
-        <a href="{{ link.url }}"><i class="fa fa-github" aria-hidden="true"></i> {{link.name}}</a>
+        <a target="_blank" href="{{ link.url }}"><i class="fa fa-github" aria-hidden="true"></i> {{link.name}}</a>
       {% endif %}
       {% if link.type == 'paper' %}
-        <a href="{{ link.url }}"><i class="fa fa-file-pdf-o"></i> {{link.name}}</a>
+        <a target="_blank" href="{{ link.url }}"><i class="fa fa-file-pdf-o"></i> {{link.name}}</a>
       {% endif %}
       {% if link.type == 'video' %}
-        <a href="{{ link.url }}"><i class="fa fa-film"></i> {{link.name}}</a>
+        <a target="_blank" href="{{ link.url }}"><i class="fa fa-film"></i> {{link.name}}</a>
       {% endif %}
       {% if link.type == 'talk' %}
-        <a href="{{ link.url }}"><i class="fa fa-video-camera"></i> {{link.name}}</a>
+        <a target="_blank" href="{{ link.url }}"><i class="fa fa-video-camera"></i> {{link.name}}</a>
       {% endif %}
       {% if link.type == 'podcast' %}
-        <a href="{{ link.url }}"><i class="fas fa-file-audio"></i> {{link.name}}</a>
+        <a target="_blank" href="{{ link.url }}"><i class="fas fa-file-audio"></i> {{link.name}}</a>
       {% endif %}
     {% endfor %}
     {% if project.awards %}

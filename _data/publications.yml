@@ -32,12 +32,12 @@
   venue_location: Berlin, Germany 
   doi: 10.1145/3266037.3271626
   short_doi: 10/db79 
-  video: https://youtu.be/VSEksTn1uQo
+  video: https://www.youtube.com/watch?v=OCxXooY3aes
 
   # link:
   pdf: /assets/scout/Swearngin_UIST18_Demo_Scout.pdf
 
-- title: "Rewire: Interface Design Assistance from Examples."
+- title: "Rewire: Interface Design Assistance from Examples"
   year: 2018
   authors:
     - Amanda Swearngin
@@ -61,7 +61,7 @@
   # doi:
   # short_doi
 
-- title: "Genie: Input Retargeting on the Web through Command Reverse Engineering."
+- title: "Genie: Input Retargeting on the Web through Command Reverse Engineering"
   year: 2017
   authors:
     - Amanda Swearngin
@@ -78,7 +78,7 @@
   slides: /assets/genie/CHISlides.pdf 
 
 
-- title: "Human Performance Regression Testing."
+- title: "Human Performance Regression Testing"
   year: 2013
   authors:
     - Amanda Swearngin
@@ -92,7 +92,7 @@
   # link:
   pdf: /assets/cogtool/AmandaSwearngin_ICSE2013.pdf
 
-- title: "Easing the Generation of Predictive Human Performance Models from Legacy Systems.."
+- title: "Easing the Generation of Predictive Human Performance Models from Legacy Systems"
   year: 2012
   authors:
     - Amanda Swearngin
@@ -120,7 +120,7 @@
   # link:
   pdf: /assets/mashups/Kuttal_ISEUD2011.pdf
 
-- title: "A Reformulation Strategy for Multi-Dimensional CSPs: The Case Study of the SET Game."
+- title: "A Reformulation Strategy for Multi-Dimensional CSPs: The Case Study of the SET Game"
   year: 2011
   authors:
     - Amanda Swearngin

@@ -3,19 +3,19 @@
 
   <span class="extra-links">
     {% if talk.slides %}
-    <a href="{{ talk.slides }}">
+    <a target="_blank" href="{{ talk.slides }}">
       <i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
     </a>
     {% endif %}
 
     {% if talk.recording %}
-    <a href="{{ talk.recording }}">
+    <a target="_blank" href="{{ talk.recording }}">
       <i class="fas fa-video" aria-hidden="true"></i> Recording
     </a>
     {% endif %}
 
     {% if talk.url %}
-    <a href="{{ talk.url }}">
+    <a target="_blank" href="{{ talk.url }}">
       <i class="fas fa-link" aria-hidden="true"></i> Website
     </a>
     {% endif %}

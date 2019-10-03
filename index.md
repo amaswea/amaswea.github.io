@@ -11,7 +11,7 @@ I am a final year Ph.D. candidate in Computer Science at the University of Washi
 
 Through this research, I have created systems to help interface designers explore and adapt
 alternative and example interfaces, and analyze the usability of an interface without needing to collect any data. For this research, I have collaborated with industry researchers through internships with <a href="https://research.adobe.com/">Adobe Research</a> and 
-<a href="https://ai.google/research/">Google</a>, and have conducted over <b>100 interviews and study sessions</b> with interface designers. My research was supported by the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship</a>
+<a href="https://ai.google/research/">Google</a>, and have conducted over <b>100 interviews and study sessions</b> with interface designers. My research was supported by the <a href="https://www.nsfgrfp.org/">National Science Foundation Graduate Research Fellowship</a>.
 
 Previously, I spent <b>3 years</b> working as a <b>full-time software development engineer</b> at Microsoft, where I helped build a web interface framework for Microsoft Dynamics, and specialized in user interface layout, patterns, and visual regression testing. 
 
