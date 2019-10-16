@@ -6,7 +6,7 @@
     are creating <b>Scout</b>, a system to help designers explore alternatives rapidly through <b>mixed-initiative interaction with high-level 
     constraints</b> and design feedback. We are formalizing design concepts combined with high-level constraints into low-level spatial 
     constraints to enable rapidly generating layout alternatives through constraint solving and synthesis. 
-  thumb: assets/scout/Scout.png
+  thumb: assets/scout/scout.png
   thumb_class: cover
   collaborators:
     - Amy J. Ko
@@ -66,7 +66,7 @@
     created <b>Rewire</b>, an interactive system that helps designers leverage example screenshots by automatically inferring a vector representation
     of a screenshot where UI components have editble shape and style properties. We demonstrate that Rewire can help designers reconstruct 
     and edit example designs more efficiently compared to a baseline tool. # in JSON.
-  thumb: assets/rewire/Rewire.png
+  thumb: assets/rewire/rewire.png
   links:
   - type: paper
     name: CHI Paper
