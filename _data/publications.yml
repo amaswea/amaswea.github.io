@@ -1,3 +1,22 @@
+
+- title: "Scout: Rapid Exploration of Interface Layout Alternatives through High-Level Design Constraints"
+  year: 2020
+  authors:
+    - <b>Amanda Swearngin</b>
+    - Chenglong Wang
+    - Alannah Oleson
+    - James Fogarty
+    - Amy J. Ko
+  venue: CHI 2020
+  venue_url: https://chi2020.acm.org/
+  venue_location: Honolulu, Hawaii (<i>Conditionally Accepted</i>)
+  # link:
+  # slides:
+  # video:
+
+  # doi:
+  # short_doi
+
 - title: "Modeling Mobile Interface Tappability Using Crowdsourcing and Deep Learning"
   year: 2019
   authors:
