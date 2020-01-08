@@ -11,10 +11,10 @@
   venue_url: https://chi2020.acm.org/
   venue_location: Honolulu, Hawaii (<i>Conditionally Accepted</i>)
   # link:
+  pdf: /assets/scout/AmandaSwearngin_Scout_CHI2020.pdf 
   # slides:
-  # video:
-
-  # doi:
+  video: /assets/scout/AmandaSwearngin_Scout_CHI2020_VideoFigure.mp4
+  doi: 10.1145/3313831.3376593
   # short_doi
 
 - title: "Modeling Mobile Interface Tappability Using Crowdsourcing and Deep Learning"
