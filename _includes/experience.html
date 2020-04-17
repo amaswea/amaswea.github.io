@@ -1,25 +1,24 @@
 {% for data in site.data.experience %}
 <div class="item">
-  <div
-    class="logo"
-    style="background-image:url(assets/profile/{{data.logo}})"
-  >
-  </div>
-  <div>
-    <div>
-      <span class="date">{{ data.date }}</span>
-      <span class="organization">{{ data.organization }}</span>
-    </div>
-    <div class="job-title">{{ data.title }}</div>
-    {% if data.mentors %}
-      <div class="mentors">Mentor(s): {{ data.mentors }}</div>
-    {% endif %}
-    {% if data.advisors %}
-      <div class="mentors">Advisor(s): {{ data.advisors }}</div>
-    {% endif %}
-    <div class="caption">
-      {{data.caption | markdownify | remove: '<p>' | remove: '</p>' }}
-    </div>
-  </div>
+	<div class="logo" style="background-image:url(assets/profile/{{data.logo}})">
+	</div>
+	<div>
+		<div>
+			<span class="date">{{ data.date }}</span>
+			<span class="organization">{{ data.organization }}</span>
+		</div>
+		<div class="job-title">{{ data.title }}</div>
+		{% if data.mentors %}
+		<div class="mentors">Mentor(s): {{ data.mentors }}</div>
+		{% endif %}
+		{% if data.advisors %}
+		<div class="mentors">Advisor(s): {{ data.advisors }}</div>
+		{% endif %}
+		<div class="caption">
+			<i>
+				{{data.caption | markdownify | remove: '<p>' | remove: '</p>' }}
+			</i>
+		</div>
+	</div>
 </div>
 {% endfor %}
