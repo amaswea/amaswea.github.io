@@ -1,3 +1,18 @@
+- title: "Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses"
+  location: Apple Research
+  city: Seattle, WA
+  date: 2020-02-03
+
+- title: "Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses"
+  location: Snap Research
+  city: Seattle, WA
+  date: 2020-02-12
+
+- title: "Modeling Mobile Interface Tappability Using Crowdsourcing and Deep Learning"
+  location: Conference on Human Factors in Computing Systems (CHI)
+  city: Glasgow, UK
+  date: 2019-05-08
+
 - title: "Scout: Mixed-Initiative Exploration of Design Variations through High-Level Design Constraints"
   location: UW Affiliates Research day
   city: Seattle, WA
@@ -15,6 +30,21 @@
   city: Redmond, WA
   date: 2018-05-12
   url: http://pnwplse.org/
+
+- title: "Rewire: Interface Design Assistance from Examples"
+  location: Conference on Human Factors in Computing Systems (CHI)
+  city: Montreal, Canada
+  date: 2018-04-24
+
+- title: "Genie: Input Retargeting on the Web through Command Reverse Engineering"
+  location: Conference on Human Factors in Computing Systems (CHI)
+  city: Denver, CO
+  date: 2017-05-08
+
+- title: "Easing the Generation of Predictive Human Performance Models from Legacy Systemsg"
+  location: Conference on Human Factors in Computing Systems (CHI)
+  city: Austin, TX
+  date: 2012-05-08
 
 - title: "An Update on COMET (Community Event-based Testing)"
   location: TESTBEDS Workshop

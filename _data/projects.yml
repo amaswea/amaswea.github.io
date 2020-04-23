@@ -23,6 +23,16 @@
   - type: talk 
     name: PNW PLSE Talk 
     url: https://youtu.be/nWoLsMr_av8
+  - type: paper
+    name: CHI Paper
+    url: /assets/scout/AmandaSwearngin_Scout_CHI2020.pdf 
+  # slides:
+  - type: video 
+    name: CHI Video Figure
+    url: /assets/scout/AmandaSwearngin_Scout_CHI2020_VideoFigure.mp4
+  - type: video 
+    name: CHI Video Preview 
+    url: /assets/scout/AmandaSwearngin_Scout_CHI2020_VideoPreview.mp4
 
 - tap-shoe:
   name: TapShoe
