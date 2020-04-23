@@ -29,10 +29,10 @@
   # slides:
   - type: video 
     name: CHI Video Figure
-    url: /assets/scout/AmandaSwearngin_Scout_CHI2020_VideoFigure.mp4
+    url: https://www.youtube.com/watch?v=y8pTC6FEsKc
   - type: video 
     name: CHI Video Preview 
-    url: /assets/scout/AmandaSwearngin_Scout_CHI2020_VideoPreview.mp4
+    url: https://www.youtube.com/watch?v=RK0F_qBTnW8
 
 - tap-shoe:
   name: TapShoe
