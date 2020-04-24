@@ -33,6 +33,9 @@
   - type: video 
     name: CHI Video Preview 
     url: https://www.youtube.com/watch?v=RK0F_qBTnW8
+  - type: video
+    name: DUB Shorts Talk 
+    url: https://vimeo.com/410762398
 
 - tap-shoe:
   name: TapShoe

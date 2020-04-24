@@ -3,6 +3,8 @@
   city: Seattle, WA
   date: 2020-04-15
   url: https://dub.washington.edu/seminars/2020-04-15.html
+  recording: https://vimeo.com/410762398
+  slides: /assets/scout/AmandaSwearngin_Scout_DUB_Shorts_Slides.pdf
 
 - title: "Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses"
   location: Apple Research
@@ -18,6 +20,8 @@
   location: Conference on Human Factors in Computing Systems (CHI)
   city: Glasgow, UK
   date: 2019-05-08
+  recording: https://www.youtube.com/watch?v=Tq3X609yo44
+  slides: /assets/tapshoe/CHISlides.pdf
 
 - title: "Scout: Mixed-Initiative Exploration of Design Variations through High-Level Design Constraints"
   location: UW Affiliates Research day
@@ -36,18 +40,21 @@
   city: Redmond, WA
   date: 2018-05-12
   url: http://pnwplse.org/
+  recording: https://youtu.be/nWoLsMr_av8
 
 - title: "Rewire: Interface Design Assistance from Examples"
   location: Conference on Human Factors in Computing Systems (CHI)
   city: Montreal, Canada
   date: 2018-04-24
+  slides: /assets/rewire/CHISlides.pdf
 
 - title: "Genie: Input Retargeting on the Web through Command Reverse Engineering"
   location: Conference on Human Factors in Computing Systems (CHI)
   city: Denver, CO
   date: 2017-05-08
+  slides: /assets/genie/CHISlides.pdf
 
-- title: "Easing the Generation of Predictive Human Performance Models from Legacy Systemsg"
+- title: "Easing the Generation of Predictive Human Performance Models from Legacy Systems"
   location: Conference on Human Factors in Computing Systems (CHI)
   city: Austin, TX
   date: 2012-05-08
