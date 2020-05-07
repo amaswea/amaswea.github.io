@@ -1,4 +1,12 @@
 
+- title: "Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses"
+  year: 2020
+  authors:
+    - <b>Amanda Swearngin</b>
+  venue: UW Ph.D. Dissertation
+  # link:
+  pdf: /assets/diss/AmandaSwearngin_Dissertation_UW.pdf
+
 - title: "Scout: Rapid Exploration of Interface Layout Alternatives through High-Level Design Constraints"
   year: 2020
   authors:
