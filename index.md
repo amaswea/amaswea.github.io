@@ -15,4 +15,5 @@ alternative and example interfaces, and analyze the usability of an interface wi
 
 Previously, I spent <b>3 years</b> working as a <b>full-time software development engineer</b> at Microsoft, where I helped build a web interface framework for Microsoft Dynamics, and specialized in user interface layout, patterns, and visual regression testing. 
 
-Starting in May, I'll be working at Apple as a ML and Accessibility Researcher. 
+I'm currently working at Apple as an AI and Accessibilty Researcher and Engineer. 
+
