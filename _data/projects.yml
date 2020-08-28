@@ -1,7 +1,7 @@
 - scout:
   name: Scout
   featured: true
-  url: /assets/scout/Swearngin_UIST18_Demo_Scout.pdf
+  url: /assets/scout/AmandaSwearngin_Scout_CHI2020.pdf 
   caption: Exploring alternatives is a key part of interface design, yet processes for creating alternatives are mostly manual. We 
     are creating <b>Scout</b>, a system to help designers explore alternatives rapidly through <b>mixed-initiative interaction with high-level 
     constraints</b> and design feedback. We are formalizing design concepts combined with high-level constraints into low-level spatial 
