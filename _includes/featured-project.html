@@ -2,7 +2,7 @@
   <div class="project">
     <span class="title">{{ project.name }}</span>
     {% if project.url || project.code || project.article || project.paper %}
-      <a target="_blank" href="{{ project.url || project.code || project.article || project.paper }}" class="preview-image" 
+      <a target="_blank" alt="{{ project.name }} paper PDF" href="{{ project.url || project.code || project.article || project.paper }}" class="preview-image" 
         style="background-image: url('{{ "/" | append: project.thumb | relative_url }}'"></a>
     {% else %}
       <span class="preview-image" style="background-image: url('{{ project.thumb }}')"></span>
