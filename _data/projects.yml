@@ -9,10 +9,10 @@
   thumb: assets/scout/scout.png
   thumb_class: cover
   collaborators:
-    - Amy J. Ko
-    - James Fogarty 
     - Chenglong Wang
     - Alannah Oleson
+    - Amy J. Ko
+    - James Fogarty
   links:
   - type: paper
     name: UIST Demo
