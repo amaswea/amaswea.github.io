@@ -1,7 +1,30 @@
+- title: Scraps: Enabling Contextual Mobile Capture, Contextualization, and Use of Document Resources}
+- year: 2021
+- authors: 
+    - Amanda Swearngin
+    - Shamsi Iqbal
+    - Victor Poznanski
+    - Marc Encarnacion 
+    - Paul N. Bennett
+    - Jaime Teevan
+- venue: CHI 2021
+- pdf: /assets/scraps/Swearngin_Scraps_CHI_2021.pdf 
+
 - title: "Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels"
   year: 2021
   authors:
+    - Xiaoyi Zhang
+    - Lilian de Greef
     - <b>Amanda Swearngin</b>
+    - Samuel White
+    - Kyle Murray
+    - Lisa Yu
+    - Qi Shan
+    - Jeffrey Nichols
+    - Jason Wu
+    - Chris Fleizach
+    - Aaron Everitt
+    - Jeffrey P. Bigham 
   venue: CHI 2021
   # link:
   arxiv: 2101.04893
