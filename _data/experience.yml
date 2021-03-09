@@ -1,7 +1,12 @@
+- organization: Apple
+  title: Research Engineer/Scientist
+  date: Since 2020 
+  location: Seattle, WA
+  caption: I develop tools and systems that apply machine learning to improve accessibility across Apple products. 
 
 - organization: Code & Cognition Lab, Fogies Lab, University of Washington
   title: Graduate Student Researcher
-  date: Since 2015
+  date: 2015 - 2019 
   location: Seattle, WA
   advisors: James Fogarty, Amy Ko
   caption: I designed and developed 4 systems applying constraint solving, data-driven design, and machine learning to aid UI/UX designers
