@@ -1,7 +1,7 @@
 - title: "Scraps: Enabling Contextual Mobile Capture, Contextualization, and Use of Document Resources"
   year: 2021
   authors: 
-    - Amanda Swearngin
+    - <b>Amanda Swearngin</b>
     - Shamsi Iqbal
     - Victor Poznanski
     - Marc Encarnacion 
@@ -9,7 +9,7 @@
     - Jaime Teevan
   venue: CHI 2021
   pdf: /assets/scraps/Swearngin_Scraps_CHI_2021.pdf 
-
+  
 - title: "Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels"
   year: 2021
   authors:
