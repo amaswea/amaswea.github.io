@@ -8,6 +8,7 @@
     - Paul N. Bennett
     - Jaime Teevan
   venue: CHI 2021
+  awards: Honorable Mention
   pdf: /assets/scraps/Swearngin_Scraps_CHI_2021.pdf 
   
 - title: "Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels"
@@ -27,6 +28,7 @@
     - Jeffrey P. Bigham 
   venue: CHI 2021
   # link:
+  awards: Best Paper
   arxiv: 2101.04893
 
 - title: "Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses"
