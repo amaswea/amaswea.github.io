@@ -1,3 +1,62 @@
+- title: "Never-ending learning of User Interfaces"
+  year: 2023
+  authors: 
+    - Jason Wu 
+    - Rebecca Krosnick
+    - Eldon Schoop
+    - <b>Amanda Swearngin</b>
+    - Jeffrey P. Bigham    
+    - Jeffrey Nichols
+  venue: UIST 2023
+  pdf: /assets/nel/Wu_NEL_UIST_2023.pdf 
+  
+- title: "Screen Correspondence: Mapping Interchangeable Elements between UIs"
+  year: 2022
+  authors: 
+    - Jason Wu 
+    - <b>Amanda Swearngin</b>
+    - Xiaoyi Zhang 
+    - Jeffrey Nichols
+    - Jeffrey P. Bigam
+  venue: Arxiv 2022
+  pdf: /assets/screen_cor/Wu_SC_Arxiv_2022.pdf 
+  
+- title: "Extracting Replayable Interactions from Videos of Mobile App Usage"
+  year: 2022
+  authors: 
+    - Jieshan Chen
+    - <b>Amanda Swearngin</b>
+    - Jason Wu 
+    - Titus Barik
+    - Jeffrey Nichols
+    - Xiaoyi Zhang 
+  venue: Arxiv 2022
+  pdf: /assets/replay/Chen_Replay_Arxiv_2022.pdf 
+  
+- title: "Towards Complete Icon Labeling in Mobile Applications"
+  year: 2022
+  authors: 
+    - Jieshan Chen
+    - <b>Amanda Swearngin</b>
+    - Jason Wu 
+    - Titus Barik
+    - Jeffrey Nichols
+    - Xiaoyi Zhang 
+  venue: CHI 2022
+  pdf: /assets/icons/Chen_Icons_CHI_2022.pdf 
+  
+- title: "Understanding Screen Relationships from Screenshots of Smartphone Applications"
+  year: 2021
+  authors: 
+    - Shirin Feiz
+    - Jason Wu
+    - Xiaoyi Zhang
+    - <b>Amanda Swearngin</b>
+    - Titus Barik
+    - Jeffrey Nichols
+  venue: IUI 2022
+  pdf: /assets/ssim/Feiz_SSIM_2022.pdf 
+  
 - title: "Scraps: Enabling Contextual Mobile Capture, Contextualization, and Use of Document Resources"
   year: 2021
   authors: 
