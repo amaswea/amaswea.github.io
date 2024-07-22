@@ -2,7 +2,10 @@
   title: Research Engineer/Scientist
   date: Since 2020 
   location: Seattle, WA
-  caption: I develop tools and systems that apply machine learning to improve accessibility across Apple products. 
+  caption: I develop human-centered AI tools for accelerating developers, and train machine learning models for understanding user interfaces. 
+    I also build large-scale data collection pipelines for collecting human-labeled datasets to train these models. 
+    I have a strong interest in building better tools to help developers make their interfaces more accessible. 
+    I have developed and released production level code for multiple features at Apple, including Screen Recognition and Accessibility Inspector.  
 
 - organization: Code & Cognition Lab, Fogies Lab, University of Washington
   title: Graduate Student Researcher
