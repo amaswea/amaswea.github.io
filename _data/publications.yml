@@ -14,6 +14,7 @@
     - Jeffrey Nichols
   venue: TOCHI 2024
   pdf: /assets/ax/Swearngin_AX_TOCHI_2024.pdf
+  link: https://machinelearning.apple.com/research/towards-automated-accessibility-report
 
 - title: "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs"
   year: 2024
@@ -22,6 +23,7 @@
     - Haotian Zhang
     - Eldon Schoop
     - Floris Weers
+
     - <b>Amanda Swearngin</b>
     - Jeffrey Nichols
     - Yinfei Yang
@@ -51,6 +53,7 @@
     - Jeffrey Nichols
   venue: CHI 2024
   pdf: /assets/axnav/Taeb_Axnav_CHI_2024.pdf
+  link: https://machinelearning.apple.com/research/axnav
 
 - title: "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations"
   year: 2023
@@ -73,6 +76,7 @@
     - Jeffrey Nichols
   venue: UIST 2023
   pdf: /assets/nel/Wu_NEL_UIST_2023.pdf 
+  link: https://machinelearning.apple.com/research/never-ending-learning
   
 - title: "Screen Correspondence: Mapping Interchangeable Elements between UIs"
   year: 2022
@@ -108,6 +112,7 @@
     - Xiaoyi Zhang 
   venue: CHI 2022
   pdf: /assets/icons/Chen_Icons_CHI_2022.pdf 
+  link: https://machinelearning.apple.com/research/icon-labelling
   
 - title: "Understanding Screen Relationships from Screenshots of Smartphone Applications"
   year: 2021
@@ -153,6 +158,7 @@
   # link:
   awards: Best Paper
   arxiv: 2101.04893
+  link: https://machinelearning.apple.com/research/creating-accessibility-metadata
 
 - title: "Expanding Interface Design Capabilities through Semantic and Data-Driven Analyses"
   year: 2020

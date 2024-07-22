@@ -1,28 +1,6 @@
 - text: I finished PhD at UW and joined Apple as a research scientist
   date: 1 Oct 2018
 
-- text: Our colleague Jake van der Plas released [`pdvega`](https://jakevdp.github.io/pdvega/), a library for using Vega-Lite plots via panda plotting API.
-  date: 2 Feb 2018
-
-- text: Vega-Lite is featured on [Nature](https://www.nature.com/articles/d41586-018-01322-9?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf180719177=1) as a visualization tool for interactive and reproductible publishing.
-  date: 30 Jan 2018
-
-- text: We released [Vega-Lite 2.1](https://github.com/vega/vega-lite/releases/tag/v2.1.0) with support for geographic maps!
-  date: 26 Jan 2018
-
-- text: Vega-Lite is used for [illustrations](https://makingdatavisual.github.io/figurelist.html) in "Making Data Visual" by Danyel Fisher and Miriah Meyer
-  date: 24 Jan 2018
-
-- text: We released [Vega-Lite 2.0](http://vega.github.io/vega-lite) with composition and interaction support. Read our [announcement blog](https://medium.com/@uwdata/introducing-vega-lite-2-0-de6661c12d58)!
-  date: 31 Oct 2017
-
-
-- text: "[TensorFlow Graph Visualizer](http://idl.cs.washington.edu/papers/tfgraph) won [Best Paper at VAST 2017](http://visweek.vgtc.org/year/2016/info/awards/best-paper-awards)."
-  date: 1 Oct 2017
-
-- text: 'We presented ["Vega-Lite: A Grammar of Interactive Graphics"](https://www.youtube.com/watch?v=9uaHRWj04D4) at [OpenVis Conf 2017](https://openvisconf.com/).'
-  date: 25 May 2017
-
 - text: "[Vega-Lite](http://idl.cs.washington.edu/papers/vega-lite) won Best Paper at InfoVis 2016."
   date: 8 Aug 2016
 
