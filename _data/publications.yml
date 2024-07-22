@@ -1,3 +1,67 @@
+- title: "Towards Automated Accessibility Report Generation for Mobile Apps"
+  year: 2024
+  authors: 
+    - <b>Amanda Swearngin</b>
+    - Jason Wu
+    - Xiaoyi Zhang
+    - Esteban Gomez
+    - Jen Coughenour
+    - Rachel Stukenbourg
+    - Bhavya Garg
+    - Greg Hughes
+    - Adriana Hilliard
+    - Jeffrey P. Bigham
+    - Jeffrey Nichols
+  venue: TOCHI 2024
+  pdf: /assets/ax/Swearngin_AX_TOCHI_2024.pdf" 
+
+- title: "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs"
+  year: 2024
+  authors: 
+    - Keen You
+    - Haotian Zhang
+    - Eldon Schoop
+    - Floris Weers
+    - <b>Amanda Swearngin</b>
+    - Jeffrey Nichols
+    - Yinfei Yang
+    - Zhe Gan 
+  venue: ECCV 2024
+  pdf: /assets/ferret/You_Ferret_ECCV_2024.pdf" 
+
+- title: "UIClip: A Data-driven Model for Assessing User Interface Design"
+  year: 2024
+  authors: 
+    - Jason Wu
+    - Yi-Hao Peng
+    - Xin Yue Li
+    - <b>Amanda Swearngin</b>
+    - Jeffrey P. Biham
+    - Jeffrey Nichols
+  venue: UIST 2024
+  pdf: /assets/uiclip/Wu_UIClip_UIST_2024.pdf" 
+
+- title: "Axnav: Replaying Accessibility Tests from Natural Language"
+  year: 2024
+  authors: 
+    - Maryam Taeb
+    - <b>Amanda Swearngin</b>
+    - Eldon Schoop
+    - Regina Cheng   
+    - Jeffrey Nichols
+  venue: CHI 2024
+  pdf: /assets/axnav/Taeb_Axnav_CHI_2024.pdf" 
+
+- title: "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations"
+  year: 2023
+  authors: 
+    - Yue Jiang
+    - Eldon Schoop
+    - <b>Amanda Swearngin</b> 
+    - Jeffrey Nichols
+  venue: CHI 2023
+  pdf: /assets/iluvui/Jiang_ILuvUI_Arxiv_2023.pdf" 
+
 - title: "Never-ending learning of User Interfaces"
   year: 2023
   authors: 
