@@ -27,7 +27,7 @@
     - Yinfei Yang
     - Zhe Gan 
   venue: ECCV 2024
-  pdf: /assets/ferret/You_Ferret_ECCV_2024.pdf" 
+  pdf: /assets/ferret/You_Ferret_ECCV_2024.pdf
 
 - title: "UIClip: A Data-driven Model for Assessing User Interface Design"
   year: 2024
@@ -39,7 +39,7 @@
     - Jeffrey P. Biham
     - Jeffrey Nichols
   venue: UIST 2024
-  pdf: /assets/uiclip/Wu_UIClip_UIST_2024.pdf" 
+  pdf: /assets/uiclip/Wu_UIClip_UIST_2024.pdf
 
 - title: "Axnav: Replaying Accessibility Tests from Natural Language"
   year: 2024
@@ -50,7 +50,7 @@
     - Regina Cheng   
     - Jeffrey Nichols
   venue: CHI 2024
-  pdf: /assets/axnav/Taeb_Axnav_CHI_2024.pdf" 
+  pdf: /assets/axnav/Taeb_Axnav_CHI_2024.pdf
 
 - title: "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations"
   year: 2023
@@ -60,7 +60,7 @@
     - <b>Amanda Swearngin</b> 
     - Jeffrey Nichols
   venue: CHI 2023
-  pdf: /assets/iluvui/Jiang_ILuvUI_Arxiv_2023.pdf" 
+  pdf: /assets/iluvui/Jiang_ILuvUI_Arxiv_2023.pdf 
 
 - title: "Never-ending learning of User Interfaces"
   year: 2023
