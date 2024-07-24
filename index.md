@@ -12,7 +12,7 @@ I'm currently working at Apple as an AIML Research Scientist. I develop human-ce
   <li>Accessibility Developer Tools: Developed a large scale system to collect and report accessibility issues for mobile apps, used for internal accessibilty reporting for multiple prominent Apple apps, and released as an Xcode feature in Accessibility Inspector.</li>
   <li>UI Understanding: Developed ML driven internal framework (Swift and Python) used by 20+ teams and products to recognize UI elements. </li>
   <li>Screen Recognition: The first on-device ML model to recognize and announce iOS app UI for VoiceOver, benefiting 20M+ blind users. CHI Best Paper award. </li>
-  <li>Recognized internal expert on accessibilty developer tools.</li>
+  <li>Recognized internal expert on accessibility developer tools.</li>
 </ul>
 
 <b>Graduate School</b>: I earned a Ph.D. in Computer Science at the University of Washington. I was 
