@@ -1,6 +1,29 @@
-- text: I finished PhD at UW and joined Apple as a research scientist
-  date: 1 Oct 2018
+- text: "[Apple's VoiceOver Screen Recognition: Using Machine Learning to Implement Accessibility](https://www.afb.org/aw/spring2024/apple-screen-recognition-machine-learning-accessibility#:~:text=Using%20Screen%20Recognition%20Effectively&text=Go%20to%20Settings%20%3E%20Accessibility%20%3E%20VoiceOver%20%3E%20Rotor%20%3E%20Rotor%20Items,ensure%20you%20always%20have%20access.)"
+  date: 1 March 2024
 
-- text: "[Vega-Lite](http://idl.cs.washington.edu/papers/vega-lite) won Best Paper at InfoVis 2016."
-  date: 8 Aug 2016
+- text: "[Apple's new AI model could help Siri see how iOS apps work](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work)"
+  date: 3 Dec 2020
 
+- text: "[Apple Research Paper Details New AI Tools To Understand The iPhone UI](https://www.forbes.com/sites/ewanspence/2024/04/12/apple-iphone-16-pro-ai-llm-ferret-siri-display-new-iphone-16/)"
+  date: 25 April 2024
+
+- text: "[Apple AI paper details how its multi-modal ‘Ferret-UI’ LLM can interpret phone UIs.](https://www.theverge.com/2024/4/9/24125707/apple-ai-paper-details-how-its-multi-modal-ferret-ui-llm-can-interpret-phone-uis)"
+  date: 9 April 2024
+
+- text: "[Apple just unveiled new Ferret-UI LLM — this AI can read your iPhone screen](https://www.tomsguide.com/ai/apple-just-unveiled-new-ferret-ui-llm-this-ai-can-read-your-iphone-screen)"
+  date: 10 April 2024
+
+- text: "[About iOS 14 Updates](https://support.apple.com/en-us/118390#:~:text=iOS%2014%20updates%20the%20core,improvements%20to%20groups%20and%20Memoji.)"
+  date: 26 Feb 2024
+
+- text: "[CMU, Apple Team Improves iOS App Accessibility](https://www.cmu.edu/news/stories/archives/2021/june/team-improves-app-accessibility.html)"
+  date: 22 Jun 2021
+
+- text: "[FCC Announces Winners of Chair’s Awards for Advancements in Accessibility](https://www.fcc.gov/fcc-announces-winners-chairs-awards-advancements-accessibility#:~:text=The%202021%20winners%20include%20Accessible,the%20Deaf%20–%20COVID%20ASL%20Hotline.)""
+  date: 3 Dec 2021
+
+- text: "[Making Mobile Applications Accessible with Machine Learning](https://machinelearning.apple.com/research/mobile-applications-accessible)"
+  date: 1 May 2021
+
+- text: "[iPhones can now automatically recognize and label buttons and UI features for blind users](https://techcrunch.com/2020/12/03/iphones-can-now-automatically-recognize-and-label-buttons-and-ui-features-for-blind-users/)"
+  date: 3 Dec 2020
