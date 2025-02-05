@@ -1,3 +1,49 @@
+- title: "Misty: UI Prototyping Through Interactive Conceptual Blending"
+  year: 2025
+  authors: 
+    - Yuwen Lu
+    - Alan Leung
+    - <b>Amanda Swearngin</b>
+    - Jeffrey Nichols
+    - Titus Barik
+  venue: CHI 2025
+  pdf: /assets/misty/Lu_Misty_CHI2025_Arxiv.pdf
+  link: https://arxiv.org/abs/2409.13900
+
+- title: "From Interaction to Impact: Towards Safer AI Agents Through Understanding and Evaluating Mobile UI Operation Impacts"
+  year: 2025
+  authors: 
+    - Zhuohao Jerry Zhang
+    - Eldon Schoop
+    - Jeffrey Nichols
+    - Anuj Mahajan
+    - <b>Amanda Swearngin</b>
+  venue: Intelligent User Interfaces (IUI) 2025
+  pdf: /assets/ui_impact/IUI_2025_UI_Action_Impact.pdf
+  link: https://arxiv.org/pdf/2410.09006
+
+- title: "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations"
+  year: 2025
+  authors: 
+    - Yue Jiang
+    - Eldon Schoop
+    - <b>Amanda Swearngin</b> 
+    - Jeffrey Nichols
+  venue: Intelligent User Interfaces (IUI) 2025
+  pdf: /assets/iluvui/Jiang_ILuvUI_IUI_2025.pdf
+  link: https://arxiv.org/abs/2310.04869
+
+- title: "Automated Code Fix Suggestions for Accessibility Issues in Mobile Apps"
+  year: 2024
+  authors: 
+    - Forough Mehralian
+    - Titus Barik
+    - Jeffrey Nichols
+    - <b>Amanda Swearngin</b>
+  venue: Arxiv 2024
+  pdf: /assets/fixally/Mehralian_FixAlly_2024.pdf
+  link: https://arxiv.org/abs/2408.03827
+  
 - title: "Towards Automated Accessibility Report Generation for Mobile Apps"
   year: 2024
   authors: 
@@ -23,13 +69,13 @@
     - Haotian Zhang
     - Eldon Schoop
     - Floris Weers
-
     - <b>Amanda Swearngin</b>
     - Jeffrey Nichols
     - Yinfei Yang
     - Zhe Gan 
   venue: ECCV 2024
-  pdf: /assets/ferret/You_Ferret_ECCV_2024.pdf
+  pdf: /assets/ferret/Ferret_UI.pdf
+  link: https://link.springer.com/chapter/10.1007/978-3-031-73039-9_14
 
 - title: "UIClip: A Data-driven Model for Assessing User Interface Design"
   year: 2024
@@ -42,6 +88,7 @@
     - Jeffrey Nichols
   venue: UIST 2024
   pdf: /assets/uiclip/Wu_UIClip_UIST_2024.pdf
+  link: https://dl.acm.org/doi/abs/10.1145/3654777.3676408
 
 - title: "AXNav: Replaying Accessibility Tests from Natural Language"
   year: 2024
@@ -54,16 +101,6 @@
   venue: CHI 2024
   pdf: /assets/axnav/Taeb_Axnav_CHI_2024.pdf
   link: https://machinelearning.apple.com/research/axnav
-
-- title: "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations"
-  year: 2023
-  authors: 
-    - Yue Jiang
-    - Eldon Schoop
-    - <b>Amanda Swearngin</b> 
-    - Jeffrey Nichols
-  venue: CHI 2023
-  pdf: /assets/iluvui/Jiang_ILuvUI_Arxiv_2023.pdf 
 
 - title: "Never-ending learning of User Interfaces"
   year: 2023
