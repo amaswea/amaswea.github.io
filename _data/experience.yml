@@ -1,11 +1,17 @@
+- organization: Microsoft Research
+  title: Principal Researcher
+  date: 2025 - Present
+  location: Seattle, WA
+  caption: AI Frontiers, Research projects on agentic systems and human AI experiences. 
+  logo: microsoft-trimmed.png
+
 - organization: Apple
   title: Research Engineer/Scientist
-  date: Since 2020 
+  date: 2020 - 2025
   location: Seattle, WA
-  caption: I develop human-centered AI tools for accelerating developers, and train machine learning models for understanding user interfaces. 
-    I also build large-scale data collection pipelines for collecting human-labeled datasets to train these models. 
-    I have a strong interest in building better tools to help developers make their interfaces more accessible. 
-    I have developed and released production level code for multiple features at Apple, including Screen Recognition and Accessibility Inspector.  
+  caption: I developed human-centered AI tools for accelerating developers, and trained machine learning models for understanding user interfaces in the area of computational UI understanding. 
+    I also built large-scale data collection pipelines for collecting human-labeled datasets to train these models, 
+    and I developed and released production level code for multiple features at Apple, including Screen Recognition and Accessibility Inspector.  
 
 - organization: Code & Cognition Lab, Fogies Lab, University of Washington
   title: Graduate Student Researcher
