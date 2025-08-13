@@ -5,7 +5,7 @@
 layout: home
 title: Amanda Swearngin
 ---
-I'm currently working at Apple as an AIML Research Scientist. I develop human-centered AI tools for accelerating developers, and train machine learning models for understanding user interfaces. I also build large-scale data collection pipelines for collecting human-labeled datasets to train these models. I have a strong interest in building better tools to help developers make their interfaces more accessible. I have developed and released production level code for multiple features at Apple, including Screen Recognition and Accessibility Inspector.  
+I'm currently working at Microsoft Research developing experiences for human AI interaction in the AI Frontiers lab. At Apple, I developed AI tools for accelerating developers, and trained machine learning models for understanding user interfaces. I have developed and released production level code for multiple features at Apple, including Screen Recognition and Accessibility Inspector.  
 
 <b>Achievements</b>
 <ul>
