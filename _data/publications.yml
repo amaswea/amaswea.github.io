@@ -1,3 +1,25 @@
+- title: "UINavBench: A Framework for Comprehensive Evaluation of Interactive Digital Agents"
+  year: 2025
+  authors: 
+    - Harsh Agrawal
+    - Eldon Schoop
+    - Xinlei Pan 
+    - Anuj Mahajan
+    - Ari Seff 
+    - Di Feng
+    - Ruijia Cheng 
+    - Andres Romero Mier Y Teran 
+    - Esteban Gomez
+    - Abhishek Sundararajan 
+    - Forrest Huang
+    - <b>Amanda Swearngin</b>
+    - Mohana Prasad Sathya Moorthy
+    - Jeffrey Nichols
+    - Alexander Toshev 
+  venue: ICCV 2025
+  pdf: /assets/uinavbench/Agrawal_UINavBench_ICCV_2025.pdf
+  link: https://openaccess.thecvf.com/content/ICCV2025/papers/Agrawal_UINavBench_A_Framework_for_Comprehensive_Evaluation_of_Interactive_Digital_Agents_ICCV_2025_paper.pdf
+
 - title: "Misty: UI Prototyping Through Interactive Conceptual Blending"
   year: 2025
   authors: 
