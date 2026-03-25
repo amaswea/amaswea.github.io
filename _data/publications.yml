@@ -1,3 +1,48 @@
+- title: "Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets"
+  year: 2026
+  authors: 
+    - Gagan Bansal
+    - Wenyue Hua
+    - Zezhou Huang 
+    - Adam Fourney
+    - <b>Amanda Swearngin</b>
+    - Will Epperson
+    - Tyler Payne 
+    - Jake M. Hofman 
+    - Brendan Lucier 
+    - Chinmay Singh
+    - Markus Mobius
+    - Akshay Nambi 
+    - Archana Yadav
+    - Kevin Gao 
+    - David M. Rothschild 
+    - Aleksandrs Slivkins
+    - Daniel G. Goldstein
+    - Hussein Mozzanar
+    - Nicole Immorlica
+    - Maya Murad 
+    - Matthew Vogel 
+    - Subbarao Kambhampati
+    - Eric Horvitz
+    - Saleema Amershi
+  venue: Arxiv 2025
+  pdf: /assets/marketplace/Bansal_Marketplace_2025.pdf
+  link: https://arxiv.org/abs/2510.25779
+
+- title: Improving User Interface Generation Models from Designer Feedback
+  year: 2026
+  authors: 
+    - Jason Wu 
+    - <b>Amanda Swearngin</b>
+    - Arun Krishna Vajjala
+    - Alan Leung 
+    - Jeffrey Nichols
+    - Titus Barik
+  venue: CHI 2026
+  pdf: /assets/feedback/Wu_UIGenFeedback_CHI2026.pdf
+  link: https://arxiv.org/abs/2509.16779
+
+
 - title: "UINavBench: A Framework for Comprehensive Evaluation of Interactive Digital Agents"
   year: 2025
   authors: 
