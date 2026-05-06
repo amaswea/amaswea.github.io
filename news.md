@@ -9,8 +9,6 @@ class: news
 # Media
 {% assign sorted_media = site.data.news | sort: 'date' | reverse %}
 {% for article in sorted_media %}
-{:.news-title}
-### {{ article.text }}
   {% include news.html media=article %}
 {% endfor %}
 
