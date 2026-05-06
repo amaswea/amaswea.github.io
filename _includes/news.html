@@ -1,6 +1,6 @@
 <div class="media">
   <span class="media-title">{{ media.text | markdownify | remove: '<p>' | remove: '</p>' | strip_newlines }}</span>
-  {% assign d = media.date | date: "%d" | plus: 0 %}
+  {% assign d = media.date | slice: 8, 2 | plus: 0 %}
   {% if d == 1 or d == 21 or d == 31 %}{% assign suffix = "st" %}
   {% elsif d == 2 or d == 22 %}{% assign suffix = "nd" %}
   {% elsif d == 3 or d == 23 %}{% assign suffix = "rd" %}
