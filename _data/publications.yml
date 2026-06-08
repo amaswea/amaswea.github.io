@@ -1,3 +1,18 @@
+- title: "SentinelBench: A Benchmark for Long-Running Monitoring Agents"
+  year: 2026
+  authors:
+    - Matheus Kunzler Maldaner
+    - Adam Fourney
+    - <b>Amanda Swearngin</b>
+    - Hussein Mozannar
+    - Gagan Bansal
+    - Maya Murad
+    - Rafah Hosn
+    - Saleema Amershi
+  venue: Arxiv 2026
+  arxiv: 2606.05342
+  link: https://arxiv.org/abs/2606.05342
+
 - title: "Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets"
   year: 2026
   authors: 
@@ -18,7 +33,7 @@
     - David M. Rothschild 
     - Aleksandrs Slivkins
     - Daniel G. Goldstein
-    - Hussein Mozzanar
+    - Hussein Mozannar
     - Nicole Immorlica
     - Maya Murad 
     - Matthew Vogel 
